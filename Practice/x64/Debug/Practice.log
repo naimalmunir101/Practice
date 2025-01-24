@@ -1,0 +1,4 @@
+﻿  Structure.cpp
+D:\Practice\Practice\Structure.cpp(20,33): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Practice\Practice\Structure.cpp(55,19): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  Practice.vcxproj -> D:\Practice\x64\Debug\Practice.exe
